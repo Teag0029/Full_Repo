@@ -26,4 +26,4 @@ When reassigned, its memory reference is reassigned as well
 
 ![Here's some comparations of object ref variables](Screenshot.jpg)
 
-![Here's the proper way to compare Wrapper values](Screenshot2.jpg)
+![Here's the proper way to compare Wrapper values](Capture2.jpg)
