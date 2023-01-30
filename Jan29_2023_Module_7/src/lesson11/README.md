@@ -1,26 +1,8 @@
-/*test
----
-_ Class: Hello _
----
-- String:toPrint
----
-+ print(String)
-+ print()
----
+Type object;
+//only creates a memory reference, pointing to a null value
 
-'
-public class Hello{
-	public Hello(){
-		print();
-	}
-	
-	public static print(String s){
-		System.out.println(s);
-	}
-	
-	public static print(){
-		print("Hello World!");
-	}
-}
-'
-*/
+object = new Type();
+//now object's reference points to the instance of Type
+
+Type object2 = object;
+//creates a ref, object2, equal to obj, pointing to that same instance of Type
