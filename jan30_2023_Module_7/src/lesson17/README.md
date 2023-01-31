@@ -1,26 +1,4 @@
-/*test
----
-_ Class: Hello _
----
-- String:toPrint
----
-+ print(String)
-+ print()
----
+# Classes and ArrayLists
 
-'
-public class Hello{
-	public Hello(){
-		print();
-	}
-	
-	public static print(String s){
-		System.out.println(s);
-	}
-	
-	public static print(){
-		print("Hello World!");
-	}
-}
-'
-*/
+a lot of practice with incorporating our own classes into the ArrayList class
+Just a bunch of object and value tracing, answering straightforward questions
