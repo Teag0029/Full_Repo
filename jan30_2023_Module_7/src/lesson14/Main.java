@@ -6,6 +6,16 @@ public class Main {
 		// TODO Auto-generated method stub
 		print();
 		
+		Data d1 = new Data();
+		
+		d1.print();
+
+		d1.setDbl(5.7);
+		d1.print();
+		
+		d1.setInt(10);
+		d1.print();
+		
 	}
 	
 	public static void print(String s){
